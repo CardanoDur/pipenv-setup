@@ -150,7 +150,7 @@ setup(
         "pipfile~=0.0",
         "colorama~=0.4",
         "packaging~=21.0",
-        "requirementslib~=1.5",
+        "requirementslib~=2.1",
         "typing~=3.7",
     ],  # Optional
     entry_points={
